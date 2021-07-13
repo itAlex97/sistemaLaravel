@@ -3,7 +3,7 @@
 @section('contenido')
 
     <template v-if="menu == 0">
-        <h1>Contenido del menu 0 suscribe</h1>
+        <h1>Contenido del menu 0 suscribirse</h1>
     </template>
 
     <template v-if="menu == 1">
@@ -11,7 +11,7 @@
     </template>
 
     <template v-if="menu == 2">
-        <h1>Contenido del menu 2</h1>
+        <h1>Contenido del menu 2 suscribirse</h1>
     </template>
 
     <template v-if="menu == 3">
